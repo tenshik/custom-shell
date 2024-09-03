@@ -1,0 +1,22 @@
+ls
+pwd
+ls
+cat README.md
+cat README.md | grep 'hello'
+cat README.md | ls
+ls | cat
+ls
+clear
+ls
+pwd
+sleep 5;
+sleep 5
+sleep 10
+fg
+ls .git
+ls .git
+ls README.md
+clear
+ls
+exit
+exit
